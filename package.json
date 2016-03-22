@@ -1,0 +1,29 @@
+{
+  "name": "highland-pool",
+  "version": "1.0.0",
+  "description": "A pool for highland streams",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "./node_modules/nodeunit/bin/nodeunit test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b123400/highland-pool.git"
+  },
+  "keywords": [
+    "highland",
+    "pool"
+  ],
+  "author": "b123400",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b123400/highland-pool/issues"
+  },
+  "homepage": "https://github.com/b123400/highland-pool#readme",
+  "dependencies": {
+    "highland": "^2.7.1"
+  },
+  "devDependencies": {
+    "nodeunit": "^0.9.1"
+  }
+}
