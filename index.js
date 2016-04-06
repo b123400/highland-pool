@@ -11,9 +11,8 @@ module.exports = function (max) {
       function startConsume () {
         streamingCount++
         stream
-            .on('error', function (err) {
+            .errors(function (err) {
               push(err)
-              finishConsume()
             })
             .each(function (x) {
               push(null, x)
