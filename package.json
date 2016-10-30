@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/b123400/highland-pool#readme",
   "dependencies": {
-    "highland": "^2.7.1"
+    "highland": "^2.10.1"
   },
   "devDependencies": {
     "eslint": "^2.4.0",
