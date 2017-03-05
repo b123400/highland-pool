@@ -1,5 +1,7 @@
 # Highland-pool
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/b123400/highland-pool.svg)](https://greenkeeper.io/)
+
 Pool for [Highland](http://highlandjs.org/) streams.
 
 [![Build status](https://travis-ci.org/b123400/highland-pool.svg?branch=master)](https://travis-ci.org/b123400/highland-pool)
