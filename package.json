@@ -2,7 +2,7 @@
   "name": "highland-pool",
   "version": "1.2.0",
   "description": "A pool for highland streams",
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "./node_modules/eslint/bin/eslint.js . && ./node_modules/nodeunit/bin/nodeunit test.js"
   },
